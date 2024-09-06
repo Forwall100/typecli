@@ -6,7 +6,7 @@ A customizable, multi-language typing speed test application with a command-line
 
 ## Description
 
-This Typing Simulator is a Python-based application that allows users to practice and measure their typing speed in various languages. It features a curses-based interface for real-time feedback, supports multiple dictionaries, and provides detailed results including words per minute (WPM) and accuracy.
+Typecli is a Python-based application that allows users to practice and measure their typing speed in various languages. It features a curses-based interface for real-time feedback, supports multiple dictionaries, and provides detailed results including words per minute (WPM) and accuracy.
 
 ## Features
 

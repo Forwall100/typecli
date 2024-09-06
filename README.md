@@ -1,6 +1,8 @@
 # Typecli
 
 A customizable, multi-language typing speed test application with a command-line interface.
+![image](https://github.com/user-attachments/assets/ce9f861a-3d8b-4dc1-8f83-07a2fc33e442)
+
 
 ## Description
 

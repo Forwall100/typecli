@@ -1,4 +1,4 @@
-# Typing Simulator
+# Typecli
 
 A customizable, multi-language typing speed test application with a command-line interface.
 
